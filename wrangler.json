@@ -1,0 +1,8 @@
+{
+	"name": "my-remix-app",
+	"compatibility_date": "2025-04-14",
+	"main": "./build/index.js",
+	"site": {
+	  "bucket": "./public"
+	}
+  }
